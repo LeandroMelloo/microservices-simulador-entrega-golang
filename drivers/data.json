@@ -1,0 +1,14 @@
+{
+    "drivers": [
+        {
+            "uuid": "79ba0249-4972-4af2-a424-35a570b29bfe",
+            "name": "Leandro",
+            "email": "leandro@gmail.com"
+        },
+        {
+            "uuid": "88ba0249-4972-4af2-a424-35a570b29bfe",
+            "name": "Luciana",
+            "email": "luciana@gmail.com"
+        }
+    ]
+}
